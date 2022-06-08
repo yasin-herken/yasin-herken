@@ -8,7 +8,7 @@
   Full Stack Developer
   
   ---
-  🔭   I’m currently working on swarm robot competition. My responsibilities are web application and swarm algorithms development
+  🔭   I’m currently working on swarm robots for Teknofest 2022. My responsibilities are web application and swarm algorithms development
   
    🌱 I’m currently learning React, Nodejs.
     
