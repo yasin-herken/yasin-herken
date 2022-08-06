@@ -1,15 +1,9 @@
-[<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>]
 <div align="center">
-  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br>
-  
-  <div class="container">Hey 👋,<span class="auto-type"> I'm Yasin!</span></div>
-  [<script>var typed= new Typed(".auto-type",{
-    strings:  ["Coding","Sleeping","Eating"],
-    typeSpeed: 150,
-    backSpeed: 150,
-    loop: true
-    }) </script>]
+
+  ![result (1)](https://user-images.githubusercontent.com/57527891/183238962-a9adc02d-4e41-4102-942f-39b45d38a61d.gif)
+
+
   Full Stack Developer
   
   ---
