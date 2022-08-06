@@ -3,7 +3,7 @@
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <br>
   
-  Hey 👋, I'm Yasin!
+  <div class="container">Hey 👋, I'm Yasin!</div>
   
   Full Stack Developer
   
