@@ -8,15 +8,15 @@
   Full Stack Developer
   
   ---
-  🔭   I’m currently working on swarm robots for Teknofest 2022. My responsibilities are web application and swarm algorithms development
+  🔭   I’m currently working on building web application for clients.
   
-   🌱 I’m currently learning React, Nodejs.
+   🌱 I’m currently learning MERN Stack.
     
    📫 How to reach me: yasin.herken123@gmail.com
   
   👨🏻‍💻 Most of my projects are available on <a href="www.github.com/yasin-herken">github</a>
   
-  🥅 2022 Goals: Make projects with react and nodejs
+  🥅 2022 Goals: Make projects with MERN stack
   
   ---
   
