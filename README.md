@@ -7,15 +7,15 @@
   Full Stack Developer
   
   ---
-  🔭   I’m currently working on building web application for clients.
+  🔭   I’m currently working on building web application.
   
-   🌱 I’m currently learning MERN Stack.
+   🌱 I’m currently learning Springboot, PostgreSQL, Reactjs.
     
    📫 How to reach me: yasin.herken123@gmail.com
   
   👨🏻‍💻 Most of my projects are available on <a href="www.github.com/yasin-herken">github</a>
   
-  🥅 2022 Goals: Make projects with MERN stack
+  🥅 2023 Goals: Microservice learning
   
   ---
   
