@@ -11,7 +11,7 @@
   ---
   🔭   I’m currently working on building web application.
   
-   🌱 I’m currently learning Springboot, PostgreSQL, Reactjs.
+   🌱 I’m currently learning Spring Boot, PostgreSQL, ReactJS.
     
    📫 How to reach me: yasin.herken123@gmail.com
   
