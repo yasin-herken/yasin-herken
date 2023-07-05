@@ -9,15 +9,13 @@
   ![](https://komarev.com/ghpvc/?username=yasin-herken&color=green)
   
   ---
-  🔭   I’m currently working on building web application.
-  
-   🌱 I’m currently learning Spring Boot, PostgreSQL, ReactJS.
+  🔭   I work as a full-stack developer.
     
    📫 How to reach me: yasin.herken123@gmail.com
   
   👨🏻‍💻 Most of my projects are available on <a href="www.github.com/yasin-herken">github</a>
   
-  🥅 2023 Goals: Microservice learning
+  🥅 2023 Goals: Microservices
   
   ---
   
@@ -31,7 +29,7 @@
   ---
 🔨 Languages and Tools:
   
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,nodejs,mysql,git,python,mongodb,express,redis)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,spring,postgres,git,kafka,jenkins,hibernate,maven,)](https://skills.thijs.gg)
   
 </div>
 
