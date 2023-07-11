@@ -13,7 +13,7 @@
 
   ## 🔭 Current Projects
 
-  Here are some of the projects I've been working on:
+  Here are some of the projects I worked on.
 
  <div align="center">
     <p align="center">
