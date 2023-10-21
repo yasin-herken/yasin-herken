@@ -36,11 +36,21 @@
 ## 🌱 Learning and Interests
 
 I'm constantly expanding my knowledge and skills. Currently, I'm focusing on learning messaging between Microservices. Some of the technologies and tools I'm exploring include:
-
-- Apache Kafka for building scalable and distributed systems.
-- Docker for containerization and deployment.
-- Elasticsearch for search and analytics.
-- Jenkins for continuous integration and continuous deployment.
+<p align="center">
+  Apache Kafka for building scalable and distributed systems.
+</p>
+<p align="center">
+  Docker for containerization and deployment.
+</p>
+<p align="center">
+  Elasticsearch for search and analytics.
+</p>
+<p align="center">
+  Jenkins for continuous integration.
+</p>
+<p align="center">
+  ArgoCD for continuous development.
+</p>
 
 ## 📝 Blog
 
