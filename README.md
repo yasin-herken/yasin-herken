@@ -12,6 +12,8 @@
   ---
   ## Welcome to my GitHub profile! I'm a software engineer specializing in Microservices architecture. I enjoy working with React.js, Spring Boot, and PostgreSQL to build robust and scalable applications. 
 
+  ![](./ckad.png)
+
   ## 🔭 Current Projects
 
   Here are some of the projects I worked on.
