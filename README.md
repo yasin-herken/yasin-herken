@@ -14,30 +14,6 @@
 
   ![](./ckad.png)
 
-  ## 🔭 Current Projects
-
-  Here are some of the projects I worked on.
-
- <div align="center">
-    <p align="center">
-    <a href="https://github.com/yasin-herken/GraduationProjectBackend">Project 1</a>: E-Commerce Application Backend.
-  </p>
-  <p align="center">
-    <a href="https://github.com/yasin-herken/GraduationProjectFrontend">Project 2</a>: E-Commerce Application Admin Panel.
-  </p>
-  <p align="center">
-    <a href="https://github.com/yasin-herken/userfrontend">Project 3</a>: E-Commerce Application User Panel.
-  </p>
-  <p align="center">
-    <a href="https://github.com/yasin-herken/VisaManagement">Project 4</a>: Visa Management Application Both Backend and Frontend.
-  </p>
-  <p align="center">
-    <a href="https://github.com/yasin-herken/ASRO">Project 5</a>: Swarm Drone Flying.
-  </p>
- </div>
-
-## 📝 Blog
-
 I'm also passionate about sharing my knowledge and experiences through writing. I'm currently working on a blog post series about messaging between Microservices. Stay tuned for some in-depth articles on this topic!
 
 ## 📫 How to Reach Me
