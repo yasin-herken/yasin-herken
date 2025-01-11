@@ -10,7 +10,7 @@
   [![An image of @yasinherken's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yasinherken)](https://holopin.io/@yasinherken)
   
   ---
-  ## Welcome to my GitHub profile! I'm a software engineer specializing in Microservices architecture. I enjoy working with React.js, Spring Boot, and PostgreSQL to build robust and scalable applications. 
+  ## Welcome to my GitHub profile! I'm a software engineer specializing in Microservices architecture.
 
   ![](./ckad.png)
 
@@ -35,25 +35,6 @@
     <a href="https://github.com/yasin-herken/ASRO">Project 5</a>: Swarm Drone Flying.
   </p>
  </div>
-
-## 🌱 Learning and Interests
-
-I'm constantly expanding my knowledge and skills. Currently, I'm focusing on learning messaging between Microservices. Some of the technologies and tools I'm exploring include:
-<p align="center">
-  Apache Kafka for building scalable and distributed systems.
-</p>
-<p align="center">
-  Docker for containerization and deployment.
-</p>
-<p align="center">
-  Elasticsearch for search and analytics.
-</p>
-<p align="center">
-  Jenkins for continuous integration.
-</p>
-<p align="center">
-  ArgoCD for continuous development.
-</p>
 
 ## 📝 Blog
 
